@@ -5,13 +5,13 @@
 	<groupId>org.primefaces.themes</groupId>
 	<artifactId>themes-project</artifactId>
 	<packaging>pom</packaging>
-	<version>1.0.10</version>
+	<version>1.0.11-SNAPSHOT</version>
 	<name>primefaces themes</name>
 	<scm>
 		<connection>scm:git:https://bob.reaman:77737aacbe2d62c29f57b62d52ea153b45325343@ttnrhgithub1.courts.judiciary.state.nj.us/bob-reaman/primefaces-themes.git</connection>
 		<url>https://ttnrhgithub1.courts.judiciary.state.nj.us/bob-reaman/primefaces-themes</url>
 		<developerConnection>scm:git:https://bob.reaman:77737aacbe2d62c29f57b62d52ea153b45325343@ttnrhgithub1.courts.judiciary.state.nj.us/bob-reaman/primefaces-themes.git</developerConnection>
-	  <tag>themes-project-1.0.10</tag>
+	  <tag>HEAD</tag>
   </scm>
 	<modules>
 		<module>afterdark</module>
