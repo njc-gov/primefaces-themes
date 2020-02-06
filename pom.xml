@@ -83,16 +83,20 @@
 
     <distributionManagement>
    		<repository>
-			<id>prime-repo</id>
+			<id>nexus</id>
             <name>PrimeFaces Maven Repository</name>
             <url>http://ttnrhjendev1:11000/repository/maven-releases/</url>
             <uniqueVersion>false</uniqueVersion>
 		</repository>
+		<snapshotRepository>
+			<id>nexus</id>
+			<url>http://ttnrhjendev1:11000/repository/maven-snapshots/</url>
+		</snapshotRepository>
     </distributionManagement>
     
     <pluginRepositories>
    		<pluginRepository>
-			<id>prime-repo</id>
+			<id>nexus</id>
             <name>PrimeFaces Maven Repository</name>
             <url>http://ttnrhjendev1:11000/repository/maven-releases/</url>
 		</pluginRepository>
