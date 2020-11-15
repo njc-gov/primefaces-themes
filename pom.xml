@@ -67,7 +67,7 @@
             <plugin>
                 <groupId>org.primefaces</groupId>
                 <artifactId>maven-jsf-plugin</artifactId>
-                <version>1.3.0</version>
+                <version>1.3.2</version>
                 <executions>
                     <execution>
                         <configuration>
